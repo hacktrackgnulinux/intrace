@@ -1,0 +1,2 @@
+make
+ln -sv /pentest/01/intrace/intrace /usr/bin/intrace
